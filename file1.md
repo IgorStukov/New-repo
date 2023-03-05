@@ -17,15 +17,15 @@
 
    **git branch** - команда, которая выводит список веток
 
-   **git branch** branche_name - создание новой ветки
+   **git branch** branch_name - создание новой ветки
 
-   **git checkout** branche_name - перейти на другую ветку
+   **git checkout** branch_name - перейти на другую ветку
 
-   **git merge** branche_name - команда для слияния веток
+   **git merge** branch_name - команда для слияния веток
 
-   **git brance -d** branche_name - удалить уже слитую ветку
+   **git branch -d** branch_name - удалить уже слитую ветку
 
-   **git checkout -b** branche_name - создание ветки через checkout и сразу переход на нее
+   **git checkout -b** branch_name - создание ветки через checkout и сразу переход на нее
 
 
 ### 
