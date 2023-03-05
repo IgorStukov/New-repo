@@ -15,6 +15,18 @@
 
    **git diff** - увидеть разницу между текущим файлом и закомиченным файлом
 
+   **git branch** - команда, которая выводит список веток
+
+   **git branch** branche_name - создание новой ветки
+
+   **git checkout** branche_name - перейти на другую ветку
+
+   **git merge** branche_name - команда для слияния веток
+
+   **git brance -d** branche_name - удалить уже слитую ветку
+
+   **git checkout -b** branche_name - создание ветки через checkout и сразу переход на нее
+
 
 ### 
 ### Заголовок 3
